@@ -4,7 +4,8 @@ html
 php
  laravel
  dll
- struktur data
+ 
 javascript
- tambahkan framework
- tambahkan react
+
+ angular
+
