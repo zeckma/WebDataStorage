@@ -6,3 +6,5 @@ php
  dll
  struktur data
 javascript
+ tambahkan framework
+ tambahkan react
