@@ -4,5 +4,6 @@ html
 php
  laravel
  dll
- struktur data
+ 
 javascript
+ angular
