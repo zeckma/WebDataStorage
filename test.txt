@@ -2,6 +2,7 @@ tes satu dua tiga
 -tes
 -tes
 -tes
--menambahkan list
+
 -menambahkan list
 -menambahkan lisat
+-hapus list dan tambah baru
